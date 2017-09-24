@@ -6,7 +6,12 @@ So, here I'm keeping the original title (in Brazilian Portuguese) but highlighti
 Here is the list:
 
 2017::
-  DFJug online meeting, {Brasilia}, March 6:::
+  {DFJUG} online meeting, {Brasilia}, July 22:::
+    * *Blockchain* concepts
+    * icon:file[] Material: https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+    * Videos:
+    ** icon:youtube[] https://www.youtube.com/watch?v=YVj9B8A6SJY[Blockchain]
+  {DFJUG} online meeting, {Brasilia}, March 6:::
     * Building *microservices* to run on *OpenShift*
     * icon:file[] Material: https://paulojeronimo.github.io/microservices-on-openshift/
     * Videos:
@@ -46,7 +51,7 @@ Here is the list:
     ** Novas soluções para o balanceamento de carga em *clusters* de *JBoss AS*
   FLISOL, {Goiania}, April 24:::
     * *Java EE 6*.
-From 2001 to 2009 a delivered many presentations related to: ::
+From 2001 to 2009, I delivered many presentations related to: ::
   * High availabilty and load balance for application servers
   * {Spring} Framework (advanced uses/ AOP)
   * Extreme Programming

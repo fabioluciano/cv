@@ -13,6 +13,8 @@
 :uri-github-account: https://github.com/paulojeronimo
 :uri-slides-code: {uri-paulojeronimo-github}/whoami
 // Paulo Jerônimo/GitHub Repositories
+:uri-gh-pj-cv: https://github.com/paulojeronimo/cv
+:uri-gh-pj-whoami: https://github.com/paulojeronimo/whoami
 :uri-gh-pj-java-fundamental-examples: https://github.com/paulojeronimo/java-fundamentals-examples
 :uri-gh-pj-jboss-domain-mode-scripts: https://github.com/paulojeronimo/jboss-domain-mode-scripts
 :uri-gh-pj-jboss-scripts: https://github.com/paulojeronimo/jboss-scripts
@@ -27,6 +29,7 @@
 :uri-gh-pj-sislegis-ambiente-centos: https://github.com/paulojeronimo/sislegis-ambiente-centos
 :uri-gh-pj-sislegis-ambiente-fedora: https://github.com/paulojeronimo/sislegis-ambiente-fedora
 :uri-gh-pj-sislegis-ambiente-ubuntu: https://github.com/paulojeronimo/sislegis-ambiente-ubuntu
+:uri-gh-pj-sislegis-ambiente-producao: https://github.com/paulojeronimo/sislegis-ambiente-producao
 :uri-gh-pj-javaee-tutorial-testes: https://github.com/paulojeronimo/javaee-tutorial-testes
 :uri-gh-pj-tutorial-keycloak: https://github.com/paulojeronimo/tutorial-keycloak
 :uri-gh-pj-tutorial-git-github: https://github.com/paulojeronimo/tutorial-git-github
@@ -35,6 +38,8 @@
 :uri-gh-pj-gerador-jboss-bpmsuite-keycloak: https://github.com/paulojeronimo/gerador-jboss-bpmsuite-keycloak
 :uri-gh-pj-wildfly-native-management-api-sample: https://github.com/paulojeronimo/wildfly-native-management-api-sample
 :uri-cluster-jboss-eap-6-test: https://github.com/paulojeronimo/cluster-jboss-eap-6-test
+// Blockchain4devs/GitHub repositories
+:uri-gh-b4d-blockchain-demo: https://github.com/blockchain4devs/blockchain-demo
 // Paulo Jerônimo/Online docs
 :uri-asciidoc-e-asciidoctor: https://paulojeronimo.github.io/asciidoc-e-asciidoctor
 :uri-blockchain-docs-1: https://goo.gl/zYVaLz
@@ -273,6 +278,9 @@
 // Universities
 :uri-unb: http://unb.br/
 :uri-ucg: http://www.pucgoias.edu.br/
+
+// Groups
+:uri-dfjug: http://www.dfjug.org/
 
 // Certifications
 :uri-redhat-certification-verify: https://www.redhat.com/rhtapps/certification/verify/?certId=130-083-967

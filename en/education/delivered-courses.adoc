@@ -1,11 +1,17 @@
 [[delivered-courses]]
 = Delivered courses
 
+:csvdir: .
+ifdef::backend-pdf[]
+:csvdir: {published-cv}
+endif::[]
+
 Working as an instructor, I delivered official courses ({Oracle}/ {RedHat}, for example) and also courses that I wrote on {my-company} (or with partners) to attend customer demands.
 
-The complete list, shown below, gives you an idea of my effort to always stay tuned with the current technologies in its epoch. This list totals almost 3,400 hours training people in technology-related subjects.
+The complete list, shown below, gives you an idea of my effort to always stay tuned with the current technologies in its epoch.
+This link:{csvdir}/delivered-courses.csv[list can be downloaded in CSV format] and totals more than 3,400 hours training people in technology-related subjects.
 
 [format="csv", separator=";", options="header"]
 |===
-include::delivered-courses.csv[]
+include::../delivered-courses.csv[]
 |===

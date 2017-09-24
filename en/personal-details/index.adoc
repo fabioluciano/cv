@@ -11,21 +11,19 @@ Vast experience on enterprise strategy definition, solution architecture, usage 
 
 Strong actuation as a consultant on middleware environments based on {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, and {GlassFish}. Capable to define strategy for installation, optimized sizing and configuration, administration best practices, deployment automation, topology design, and as a best practices mentor on troubleshooting, performance analysis and performance tuning.
 
-Experienced trainer, with more than 3000h of training delivered. Main topics taught include Software Architecture, Test Driven Development, {JavaEE} Development (including Web, Web Services, EJB, JPA, etc), and JBoss Administration.
+Experienced trainer, with more than 3,400 hours of <<delivered-courses,training delivered>>. Main topics taught include Software Architecture, Test Driven Development, {JavaEE} Development (including Web, Web Services, EJB, JPA, etc), and JBoss Administration.
 ****
 
-* icon:phone[] Phone/WhatsApp: {MyPhone}
+Contacts::
+* icon:phone[] Mobile Phone/WhatsApp: {MyPhone}
 * icon:skype[] Skype: {MyID}
 WebSites::
-* http://paulojeronimo.com
-* http://paulojeronimo.info __(pt-br, [red]#deprecated#)__
-* {uri-ladoservidor} __(pt-br, [red]#deprecated#)__
-
+* paulojeronimo [http://paulojeronimo.com[.com] | http://paulojeronimo.info[.info] (__pt-br, [red]#deprecated#)__]
+* {uri-ladoservidor}[ladoservidor.com] __(pt-br, [red]#deprecated#)__
 Social Media::
 {uri-paulojeronimo-linkedin}[icon:linkedin[3x]]
 {uri-paulojeronimo-github}[icon:github[3x]]
 {uri-paulojeronimo-twitter}[icon:twitter[3x]]
 {uri-paulojeronimo-facebook}[icon:facebook[3x]]
 {uri-paulojeronimo-instagram}[icon:instagram[3x]]
-
 icon:map-marker[] Location:: {uri-paulojeronimo-location}[Rua 37 Sul, Águas Claras, Brasília/DF, Brazil]

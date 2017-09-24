@@ -1,6 +1,6 @@
 Course (abbrev);Date (or Period);Duration (hours);Customer;City
-{JavaSE8Programming} ({OracleCourse});September 2017;40;{Valec};{HeptaBrasilia}
-{JavaSE8Fundamentals} ({OracleCourse});September 2017;40;{Valec};{HeptaBrasilia}
+{JavaSE8Programming} ({OracleCourse});September 2017 ({uri-weeks-2017}[week 38]);40;{Valec};{HeptaBrasilia}
+{JavaSE8Fundamentals} ({OracleCourse});September 2017 ({uri-weeks-2017}[week 37]);40;{Valec};{HeptaBrasilia}
 {JB248} ({RedHatCourse});July 2016;32;{Tecnisys};{Brasilia}
 TDD with {JavaEE} and {Arquillian};March 2015;16;{STN};{Brasilia}
 {JB248} ({RedHatCourse});December 2014;32;{SefazCE};{Fortaleza}

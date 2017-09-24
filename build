@@ -75,6 +75,7 @@ _publish() {
     --include='/pt-br/*.pdf' \
     --include='/en/*.html' \
     --include='/en/*.pdf' \
+    --include='/en/*.csv' \
     --exclude='*' \
     . "$published_dir"/
   cd - &> /dev/null

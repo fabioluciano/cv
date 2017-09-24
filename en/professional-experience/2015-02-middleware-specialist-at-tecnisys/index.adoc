@@ -6,7 +6,7 @@ icon:group[] {Tecnisys}
 
 {Tecnisys} is a {RedHat}'s partner. When I was working there, also, an {IBM} partner.
 
-I worked for this employer offering consulting and training services on Red Hat's Linux, middleware and cloud products, including the following servers / solutions: {OpenStack}, {OpenShift}, {JBossEAP}, {WildFly}, {JBossESB}, {JBossFuse}, {JBossDataVirtualization}, {JBossAMQ}, {JBossDeveloperStudio}, {JBossFuse}, {JBossBPMSuite}, {JBossBRMS}.
+I worked for this employer offering consulting and training services on Red Hat's Linux, middleware and cloud products, including the following servers / solutions: {OpenStack}, {OpenShift}, {JBossEAP}, {WildFly}, {JBossESB}, {JBossFuse}, {JBossDataVirtualization}, {JBossAMQ}, {JBossDeveloperStudio}, {JBossBPMSuite}, {JBossBRMS}.
 
 I also did some works related with IBM products: {IBMWorklight}.
 

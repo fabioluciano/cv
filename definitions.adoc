@@ -85,7 +85,12 @@
 :Algar: http://algartech.com/en/[Algar Tecnologia]
 :CNPq: http://cnpq.br/[CNPq]
 
+// Groups
+:DFJUG: {uri-dfjug}[DFJUG]
+
 // My GitHub repositories
+:cv: {uri-gh-pj-cv}[cv]
+:whoami: {uri-gh-pj-whoami}[whoami]
 :java-fundamentals-examples: {uri-gh-pj-java-fundamental-examples}[java-fundamental-examples]
 :jboss-domain-mode-scripts: {uri-gh-pj-jboss-domain-mode-scripts}[jboss-domain-mode-scripts]
 :jboss-scripts: {uri-gh-pj-jboss-scripts}[jboss-scripts]
@@ -99,9 +104,15 @@
 :sislegis-ambiente-centos: {uri-gh-pj-sislegis-ambiente-centos}[sislegis-ambiente-centos]
 :sislegis-ambiente-fedora: {uri-gh-pj-sislegis-ambiente-fedora}[sislegis-ambiente-fedora]
 :sislegis-ambiente-ubuntu: {uri-gh-pj-sislegis-ambiente-ubuntu}[sislegis-ambiente-ubuntu]
+:sislegis-ambiente-producao: {uri-gh-pj-sislegis-ambiente-producao}[sislegis-ambiente-producao]
 :sislegis-site: {uri-gh-pj-sislegis-site}[sislegis-site]
 :gerador-jboss-bpmsuite-keycloak: {uri-gh-pj-gerador-jboss-bpmsuite-keycloak}[gerador-jboss-bpmsuite-keycloak]
 :wildfly-native-management-api-sample: {uri-gh-pj-wildfly-native-management-api-sample}[wildfly-native-management-api-sample]
+:blockchain-demo: {uri-gh-b4d-blockchain-demo}[blockchain-demo]
+:tutorial-metalsmith: {uri-gh-pj-tutorial-metalsmith}[tutorial-metalsmith]
+:praticando-git-livro: {uri-gh-pj-praticando-git-livro}[praticando-git-livro]
+:tutorial-keycloak: {uri-gh-pj-tutorial-keycloak}[tutorial-keycloak]
+:javaee-tutorial-testes: {uri-gh-pj-javaee-tutorial-testes}[javaee-tutorial-testes]
 
 // Various
 :JavaSE: {uri-java-se}[Java SE]
@@ -237,5 +248,15 @@ endif::[]
 :UnB: icon:university[] {uri-unb}[Universidade de Brasília (UnB)]
 :UCG: icon:university[] {uri-ucg}[Universidade Católica de Goiás (UCG)]
 
+// Publications
+:published-cv: https://paulojeronimo.github.io/cv/en
+:published-jboss-domain-mode-scripts: https://paulojeronimo.github.io/jboss-domain-mode-scripts
+:published-praticando-git-livro: http://producao.virtual.ufpb.br/books/paulojeronimo/praticando-git-livro/livro/livro.pdf
+:published-tutorial-metalsmith: http://paulojeronimo.github.io/tutorial-metalsmith
+:published-tutorial-keycloak: http://paulojeronimo.github.io/tutorial-keycloak
+:published-javaee-tutorial-testes: http://paulojeronimo.github.io/javaee-tutorial-testes
+:published-blockchain-demo: http://blockchain4devs.github.io/blockchain-demo/docs/pt-br
+
+// Other
 :OracleCourse: {Oracle}
 :RedHatCourse: {RedHat}

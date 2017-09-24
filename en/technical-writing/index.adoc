@@ -1,11 +1,6 @@
 [[technical-writing]]
 = icon:book[] Technical Writing
 
-:praticando-git-livro: http://producao.virtual.ufpb.br/books/paulojeronimo/praticando-git-livro/livro/livro.pdf
-:tutorial-metalsmith: http://paulojeronimo.github.io/tutorial-metalsmith
-:tutorial-keycloak: http://paulojeronimo.github.io/tutorial-keycloak
-:javaee-tutorial-testes: http://paulojeronimo.github.io/javaee-tutorial-testes
-
 So far I have been directing my publications to the public that reads in Portuguese.
 That way, most of my publications are in that language.
 Below are some of my technical writing.
@@ -13,8 +8,16 @@ Below are some of my technical writing.
 [[publications]]
 == Publications
 
-* icon:calendar[] August 2017: *"Scripts for automating tasks on JBoss EAP domain mode"* would be the translated title for the documentation tha I wrote for project <<jboss-domain-mode-scripts>>. In portuguese: https://paulojeronimo.github.io/jboss-domain-mode-scripts/docs/pt-br/["Scripts para a automação de tarefas no JBoss EAP (em modo domain)"]. __(https://paulojeronimo.github.io/jboss-domain-mode-scripts/docs/pt-br/jboss-domain-mode-scripts.pdf[PDF version] with 62 pages)__.
-* [[tutorial-metalsmith]] icon:calendar[] July 2016: *"Metalsmith Tutorial"* would be the translated title for the publication that I wrote in Brazilian Portuguese: {tutorial-metalsmith}["Tutorial de Metalsmith"]. __({tutorial-metalsmith}/index.pdf[PDF version] with 19 pages)__. {uri-gh-pj-tutorial-metalsmith}[Source code on GitHub].
-* [[praticando-git-livro]] icon:calendar[] March 2016: *"Practicing Git"* would be the translated title for the publication that I wrote in Brazilian Portuguese: *"Praticando Git"*. __({praticando-git-livro}[PDF version] with 34 pages)__. {uri-gh-pj-praticando-git-livro}[Source code on GitHub].
-* [[tutorial-keycloak]] icon:calendar[] September 2015: *"Keycloak Tutorial"* would be the translated title for the publication that I wrote in Brazilian Portuguese: {tutorial-keycloak}["Tutorial de Keycloak"]. __({tutorial-keycloak}/tutorial-keycloak.pdf[PDF version] with 13 pages)__. {uri-gh-pj-tutorial-keycloak}[Source code on GitHub].
-* [[javaee-tutorial-testes]] icon:calendar[] March 2015 - *"Java EE application tests with Arquillian"* would be translated title for the publication that I wrote in Brazilian Portuguese: {javaee-tutorial-testes}["Testes em aplicações Java EE com Arquillian"]. __({javaee-tutorial-testes}/javaee-tutorial-testes.pdf[PDF version] with 41 pages)__. {uri-gh-pj-javaee-tutorial-testes}[Source code on GitHub].
+* icon:calendar[] August 2017: *"Scripts for automating tasks on JBoss EAP domain mode"* would be the translated title for the documentation that I wrote for project <<jboss-domain-mode-scripts>>.
+In portuguese: {published-jboss-domain-mode-scripts}/docs/pt-br/["Scripts para a automação de tarefas no JBoss EAP (em modo domain)"].
+__({published-jboss-domain-mode-scripts}/docs/pt-br/jboss-domain-mode-scripts.pdf[PDF version] with 62 pages)__.
+* icon:calendar[] July 2017: *"Blockchain: A Graphical View"* would be the translated title for the publication that I wrote in Brazilian Portuguese: {published-blockchain-demo}/["Blockchain: Uma Visualização Gráfica"].
+__({published-blockchain-demo}/blockchain-demo.pdf[PDF version] with 12 pages)__. Source code: <<blockchain-demo>>.
+* icon:calendar[] July 2016: *"Metalsmith Tutorial"* would be the translated title for the publication that I wrote in Brazilian Portuguese: {published-tutorial-metalsmith}["Tutorial de Metalsmith"].
+__({published-tutorial-metalsmith}/index.pdf[PDF version] with 19 pages)__. Source code: <<tutorial-metalsmith>>.
+* icon:calendar[] March 2016: *"Practicing Git"* would be the translated title for the publication that I wrote in Brazilian Portuguese: *"Praticando Git"*.
+__({published-praticando-git-livro}[PDF version] with 34 pages)__. Source code: <<praticando-git-livro>>.
+* icon:calendar[] September 2015: *"Keycloak Tutorial"* would be the translated title for the publication that I wrote in Brazilian Portuguese: {published-tutorial-keycloak}["Tutorial de Keycloak"].
+__({published-tutorial-keycloak}/tutorial-keycloak.pdf[PDF version] with 13 pages)__. Source code: <<tutorial-keycloak>>.
+* icon:calendar[] March 2015: *"Java EE application tests with Arquillian"* would be translated title for the publication that I wrote in Brazilian Portuguese: {published-javaee-tutorial-testes}["Testes em aplicações Java EE com Arquillian"].
+__({published-javaee-tutorial-testes}/javaee-tutorial-testes.pdf[PDF version] with 41 pages)__. Source code: <<javaee-tutorial-testes>>.
