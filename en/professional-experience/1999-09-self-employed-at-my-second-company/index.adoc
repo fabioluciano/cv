@@ -29,13 +29,14 @@ Now, through my company, I'm playing the following roles:
 * <<_2016-10-senior-consultant-at-redhat>>.
 * <<_2014-09-jboss-instructor-at-redhat>>.
 
-Using the trademark __Lado Servidor__ I did:
+Using the trademark __Lado Servidor__:
 
 * icon:calendar[] April 2010 -> April 2014: I developed and ministered courses to many customers.
 Details in "<<delivered-courses>>".
 * icon:calendar[] April 2010 -> December 2010, at {Cabal}: I worked in the assembly of an infrastructure based on JBoss AS and the migration / transformation of services written in Java for this new infra. The migration also involved the "mavenization" of several projects, with the use of {Maven} 3.0 and {Nexus}, as well as the development of several scripts ({Bash}/ {Python}) for the automation of tasks related to the deployment of components in different environments (from development to prodution).
 
-Some atitivities before the name __Lado Servidor__:
+Before the name __Lado Servidor__:
+
 * icon:calendar[] June 2007 -> December 2007, at {RedHat}: I was an instructor for {RH336} (JBoss for Administrators) four (4) times.
 Details in "<<delivered-courses>>".
 * icon:calendar[] March 2007 -> September 2007, at {Summa}: I was a technical project leader for Sun Microsystems in the development of the B2B portal for the customer Banco do Brasil.

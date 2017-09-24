@@ -6,6 +6,9 @@
 :uri-paulojeronimo-twitter: https://twitter.com/paulojeronimo
 :uri-paulojeronimo-github: https://github.com/paulojeronimo
 :uri-paulojeronimo-linkedin: https://www.linkedin.com/in/paulojeronimo/
+:uri-paulojeronimo-facebook: https://www.facebook.com/paulojeronimo.info
+:uri-paulojeronimo-instagram: https://www.instagram.com/paulojeronimo_/
+
 // Paulo Jerônimo/Personal Presentation
 :uri-github-account: https://github.com/paulojeronimo
 :uri-slides-code: {uri-paulojeronimo-github}/whoami

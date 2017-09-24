@@ -22,8 +22,10 @@ WebSites::
 * {uri-ladoservidor} __(pt-br, [red]#deprecated#)__
 
 Social Media::
-* {uri-paulojeronimo-linkedin}[icon:linkedin[]] {uri-paulojeronimo-linkedin}
-* {uri-paulojeronimo-github}[icon:github[]] {uri-paulojeronimo-github}
-* {uri-paulojeronimo-twitter}[icon:twitter[]] {uri-paulojeronimo-twitter}
+{uri-paulojeronimo-linkedin}[icon:linkedin[3x]]
+{uri-paulojeronimo-github}[icon:github[3x]]
+{uri-paulojeronimo-twitter}[icon:twitter[3x]]
+{uri-paulojeronimo-facebook}[icon:facebook[3x]]
+{uri-paulojeronimo-instagram}[icon:instagram[3x]]
 
 icon:map-marker[] Location:: {uri-paulojeronimo-location}[Rua 37 Sul, Águas Claras, Brasília/DF, Brazil]

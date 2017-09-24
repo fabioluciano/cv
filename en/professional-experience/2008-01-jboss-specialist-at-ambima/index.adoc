@@ -4,7 +4,7 @@
 icon:calendar[] `January 2008 to April 2009` +
 icon:group[] {Ambima}
 
-I worked in supporting middleware's infrastructure that makes up the Selic application servers, on Central Bank ({RioDeJaneiro)).
+I worked in supporting middleware's infrastructure that makes up the Selic application servers, on Central Bank ({RioDeJaneiro})).
 I did the installation, configuration, and integration of many application servers ({JBossEAP}).
 I also did maintenance and monitoring of multiple instances (+ 30) in various environments (from development to production).
 I did the refactoring of deployments automation solution for {JavaEE} applications that, in past, was using {Bash} scripts and {Ant}.
