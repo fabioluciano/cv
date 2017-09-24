@@ -1,0 +1,15 @@
+[[_1994-04-pascal-programmer-at-fujioka]]
+= Pascal Programmer at Fujioka
+
+icon:calendar[] `April 1994 to March 1995` +
+icon:group[] {Fujioka}
+
+I was hired to develop commercial systems (Financial Check Poster Control, Telesales, Postal Refund, etc) using as the {Pascal} programming language.
+
+My development programs were built by using with Object Oriented (OO) Pascal.
+OO was introduced in Pascal with {TurboPascal55}.
+That compiler was my first compiler when <<my-graduation,I was studying Computer Science at the university>>.
+
+I developed several systems at this time, using Pascal until Borland Pascal version 7.0.
+
+It was at this time that I migrated my interests for object orientation in {cpp} and started working with this language.

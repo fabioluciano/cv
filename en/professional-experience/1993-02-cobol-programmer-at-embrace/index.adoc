@@ -1,0 +1,8 @@
+[[_1993-02-cobol-programmer-at-embrace]]
+= COBOL Programmer at Embrace
+
+icon:calendar[] `February 1993 to March 1994` +
+icon:group[] {Embrace}
+
+My first job, working as a {COBOL} programmer.
+My responsibility was to port some code running on RM-COBOL on Digix (a UNIX clone) to MB-COBOL.

@@ -1,0 +1,18 @@
+= icon:graduation-cap[] Education
+
+[[my-academic-background]]
+== Academic Background (Universities)
+
+{UnB}::
+Specialist, Distributed Systems and Object Orientation +
+2001 - 2002
+[[my-graduation]] {UCG}::
+Bachelor's degree, Computer Science +
+1994 - 1998
+
+== Language Skills
+
+* Portuguese: native language
+* English: fluent (reading); intermediate (speaking, writing)
+
+include::delivered-courses.adoc[leveloffset=+1]

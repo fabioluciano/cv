@@ -1,0 +1,44 @@
+[[_2016-10-senior-consultant-at-redhat]]
+= Senior Consultant at Red Hat
+
+icon:calendar[] `October 2016 to Now (On going)` +
+icon:group[] Through {my-company}, I act as a Senior Consultant at {RedHat}.
+
+include::definitions.adoc[]
+
+* icon:calendar[] `October 2016 to August 2017`:
+** {w2016-10-a}.
+** {w2016-10-b}. Some pieces of this project is available in {uri-paulojeronimo-github}[my account on GitHub] with an {uri-jboss-domain-mode-scripts-docs-pt-br}[extensive documentation __(in pt-br)__].
+* icon:calendar[] `May 2017 to July 2017`:
+** I and {uri-wally}[a colleague] did a migration of several {JavaEE} applications in {Previ} customer ({PreviRioDeJaneiro}).
+These migrations were done for applications running on {JBossEAP}.
+The main goal was to migrate these apps from {JBossEAP} 6.1 to version 6.4.
+To achieve this goal, we did a lot of code refactorings, {Maven} POM and {Jenkins} configurations updates.
+Also, we build the all the new environments (from local development to production).
+* icon:calendar[] `April 2017 to May 2017`:
+** {w2016-10-c}. This was built for {Ancine} customer ({AncineRioDeJaneiro}) (a Brazilian government agency).
+In this PoC the objective was importing users (and roles) from an external database (Oracle) to permit authentication and authorization from it, as well from Active Directory (at the same time).
+* icon:calendar[] `March 2017`:
+** {w2016-10-d}. Unfortunately, I was unsuccessful because many components from this application were very old and need to be upgraded before this migration.
+The budget for this project wasn't estimated for this task.
+
+icon:briefcase[] Things that I'm using on my works:
+
+[cols="5*",options="header"]
+|===
+
+| Technologies/ Frameworks
+| Tools
+| Middleware
+| Databases
+| OS
+
+| {JavaEE} (versions from 5 to 7), {Spring}, {VRaptor}, {Struts}
+| {Vim}, {Bash}, {Ant}, {Maven}, {Nexus}, {Jenkins}, {JBossDeveloperStudio}, {Vagrant}, {Docker}
+| {JBossEAP} (versions from 5 to 7), {RHSSO} 7.1, {ApacheHTTP}, {mod_cluster}, {Nginx}
+| {OracleDatabase}, {OracleXe}, {IBMDb2}, {MicrosoftSqlServer}
+| {RHEL}, {macOS}
+
+|===
+
+icon:github[] Some pieces of my works, available on {my-GitHub-account}: <<jboss-scripts>>, <<jboss-domain-mode-scripts>>, <<poc-vraptor-jboss-cluster>>, <<struts2-crud-example>>, <<docker-rhel-nexus>>, <<docker-oracle-xe>>.

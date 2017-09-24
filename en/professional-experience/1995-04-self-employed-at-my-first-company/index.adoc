@@ -1,0 +1,28 @@
+[[_1995-04-self-employed-at-login-informatica]]
+= Self-employed at Login Informática
+
+icon:calendar[] `April 1995 to August 1998` +
+
+This was my first company. I developed much software in Pascal, C, and {cpp} languages, for various customers. This is a brief description of the main software that I developed:
+
+* *http://www.cdlgoiania.com.br/[Câmara de Dirigentes Logistas (CDL-GO)]*:
+Developed communication programs to interface with https://pt.wikipedia.org/wiki/RENPAC[RENPAC] (National Network Package) through X.25 and TCP/IP.
+These programs were written in server side using C language (on SCO Unix) and, at the client side, developed in Delphi 3.0.
+Aims to establish the interstate connection between the various chambers of shopkeepers leaders of Brazil.
+* *Rei Drogas Distribuidora Farmacêutica*:
+I participated in the development of Pharmacies Control System.
+This was carried out using the Turbo C++ 3.0.
+* *https://www.ifg.edu.br/[Escola Técnica Federal de Goiás]*:
+I participated in the development of the Academic Control System of this school, using Delphi.
+* *Fale Grátis*:
+I participated in the development of http://www1.folha.uol.com.br/fsp/dinheiro/fi0707200012.htm[contact free application].
+In this project, I worked developing in C++ and Delphi 3.0.
+* *https://www.ufg.br/[Federal University of Goiás (UFG)]*:
+Participated in the development of software that controls subscriber tickets Telegoiás to provide DDD-X reports in real time.
+DDD-X is an actual traffic sampling, i.e., subscribers are executing the same.
+With this software is able to Telegoiás analyzes, through reports, offenders and critical destinations, but also determine the rate of OK a central ticketing.
+The application was for Intranet, the client was a browser that supports Java applets.
+The server was running the business rules using Delphi.
+The tools used were: Borland JBuilder 1.0, Borland Delphi 3.0, MS SQL Server 6.5.
+* *{uri-fujioka}[Fujioka]*:
+I developed the Postal Refund Control System, using the Borland Pascal 7.0 and OWL (Object Windows Library) for the Windows OS.

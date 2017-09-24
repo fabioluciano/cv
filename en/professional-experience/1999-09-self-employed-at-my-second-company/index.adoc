@@ -1,0 +1,46 @@
+[[_1999-09-self-employed-at-my-second-company]]
+= Self-employed at Paulo Jerônimo ME
+
+icon:calendar[] `September 1999 to Now (On going)` +
+icon:group[] *Paulo Jerônimo ME*
+
+*Paulo Jerônimo Treinamentos Eireli-ME* is the current name of my own micro company.
+It was founded in September 1999 with the name *ALP Engenharia de Software Ltda*.
+For many years my company lived only attending some specify customers, without a trademark.
+So, in April 2010, I decided to give it one: *http://ladoservidor.com[Lado Servidor]*.
+Using this name, I developed many works involving the creation of custom training to many customers.
+Also, I gave solutions and did many services associated with Java application servers.
+Another work was the application development (especially in {JavaEE}, on multiple platforms).
+
+I kept the http://blog.ladoservidor.com[Lado Servidor's blog].
+This blog is available, now, for historical reasons.
+It does not suffer updates anymore.
+All the posts created for this blog was written in Brazilian Portuguese (pt-br).
+Those posts contain various solutions and tutorials for some technologies, especially those addressing the use of {JavaEE} middleware ({JBossEAP}, {GlassFish}, {IBMWebSphere}, etc).
+Some friends (including {MarceloAncelmo} and {BrunoBorges}), also with extensive knowledge in the Java EE world, contributed in adding some posts to __Lado Servidor__ blog.
+
+In April 2014, I decided to not update __Lado Servidor__ blog anymore.
+That decision was done to give more emphasis in my own name.
+So, I asked my accountant to change the name to the current that I'm using.
+
+Now, through my company, I'm playing the following roles:
+
+* <<_2017-09-java-instructor-at-oracle>>.
+* <<_2016-10-senior-consultant-at-redhat>>.
+* <<_2014-09-jboss-instructor-at-redhat>>.
+
+Using the trademark __Lado Servidor__ I did:
+
+* icon:calendar[] April 2010 -> April 2014: I developed and ministered courses to many customers.
+Details in "<<delivered-courses>>".
+* icon:calendar[] April 2010 -> December 2010, at {Cabal}: I worked in the assembly of an infrastructure based on JBoss AS and the migration / transformation of services written in Java for this new infra. The migration also involved the "mavenization" of several projects, with the use of {Maven} 3.0 and {Nexus}, as well as the development of several scripts ({Bash}/ {Python}) for the automation of tasks related to the deployment of components in different environments (from development to prodution).
+
+Some atitivities before the name __Lado Servidor__:
+* icon:calendar[] June 2007 -> December 2007, at {RedHat}: I was an instructor for {RH336} (JBoss for Administrators) four (4) times.
+Details in "<<delivered-courses>>".
+* icon:calendar[] March 2007 -> September 2007, at {Summa}: I was a technical project leader for Sun Microsystems in the development of the B2B portal for the customer Banco do Brasil.
+* icon:calendar[] April 2003 -> December 2007, at {ArgoNavis}: I ministered courses and gave presentations in events in partnership with {HelderDaRocha} (the owner of this company).
+Details in "<<delivered-courses>>".
+* icon:calendar[] Janurary 2006 -> June 2006, at DBA Sistemas: I worked as a consultant in the development of the Integrated Public Debt System (SID) of {STN}.
+* icon:calendar[] November 2005 -> December 2005, at {Hirix}: I worked as an architect for the Lottery project of {CEF} in the construction of some use cases that needed to be delivered by the end of 2005. I led and followed the activities of the designers and programmers of the team (from solution design to construction of the code and its integration). I developed the monitoring solution for the network servers by EFL (lottery financial station).
+* icon:calendar[] January 2001 -> September 2001, at {Foton}: Acting as a consultant and developer (Java and {cpp}) in this company's core technology.

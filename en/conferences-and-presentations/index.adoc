@@ -1,0 +1,55 @@
+[[conferences-and-presentations]]
+= icon:comments[] Conferences & presentations
+
+All my presentations, until this moment, was done in Brazil.
+So, here I'm keeping the original title (in Brazilian Portuguese) but highlighting (in *bold*) the subject(s).
+Here is the list:
+
+2017::
+  DFJug online meeting, {Brasilia}, March 6:::
+    * Building *microservices* to run on *OpenShift*
+    * icon:file[] Material: https://paulojeronimo.github.io/microservices-on-openshift/
+    * Videos:
+    ** icon:youtube[] https://www.youtube.com/watch?v=t5EsXqs2K7w[Construindo microserviços para execução no OpenShift - parte 1]
+    ** icon:youtube[] https://www.youtube.com/watch?v=TMe12HRHKhE[Construindo microserviços para execução no OpenShift - parte 2]
+2014::
+  JUDCon Brazil, {SaoPaulo}, September 26:::
+    * http://www.jboss.org/pt_BR/events/JUDCon/2014/brazil/agenda.html#wildfly[Setting up and running *Wildfly and RHQ on Docker* /Fedora]
+    * icon:file[] Material: http://paulojeronimo.github.io/JUDCon-2014-Brazil/
+    * Videos (recorded after the event):
+    ** icon:youtube[] https://www.youtube.com/watch?v=Y41E2kabT9g[Tutorial Docker 1]
+    ** icon:youtube[] https://www.youtube.com/watch?v=psC_PPdkm7E[Tutorial Docker 2]
+  *Join Community*, {Goiania}, May 31:::
+    * Criando e publicando sites no *GitHub Pages* com *Asciidoctor* e *Awestruct*
+    * icon:file[] Material: https://github.com/paulojeronimo/join-community-2014
+2011::
+  Oracle Technology Developer Day (OTN Day), {SaoPaulo}, August 02:::
+    * 3 presentations:
+    ** Keynote
+    ** Desenvolvimento na leve e moderna plataforma *Java EE 6*
+    ** Disputa entre ferramentas de IDE: *Eclipse*, *NetBeans*, *JDeveloper*
+  JustJava, May 18, {SaoPaulo}:::
+    * *Clusters* com *GlassFish Server 3.1*.
+2010::
+  Semana Acadêmica da Faculdade Projeção, {Brasilia}, October 17:::
+    * *Clusters* de servidores de aplicações *Java*, demonstrando casos práticos utilizando *JBoss* e/ou *GlassFish*.
+  2o WorkShop de Tecnologia de Jataí, Jataí, October 29:::
+    * *Java EE* no *JBoss AS 6*
+  Semana Acadêmica da Faculdade Jesus Maria José, {Brasilia}, November 05:::
+    * *Clusters* and high availability in *JBoss AS*
+  {uri-javasenior}[Java Senior], {Goiania}, September 11:::
+    * 5 Presentations:
+    ** Construindo aplicações *Java* com *Maven* e *Nexus*
+    ** Testes em aplicações *Java EE 6*: como fazer?
+    ** *Enterprise JavaBeans 3.1*
+    ** Desconferência: Aplicações Java EE reais e em produção: como são?
+    ** Novas soluções para o balanceamento de carga em *clusters* de *JBoss AS*
+  FLISOL, {Goiania}, April 24:::
+    * *Java EE 6*.
+From 2001 to 2009 a delivered many presentations related to: ::
+  * High availabilty and load balance for application servers
+  * {Spring} Framework (advanced uses/ AOP)
+  * Extreme Programming
+  * Aspect Oriented Programming (AOP)
+  * Java new features
+  * Web Services

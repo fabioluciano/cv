@@ -1,0 +1,8 @@
+[[_2015-10-project-manager-at-cebraspe]]
+= Project Manager at Cebraspe
+
+icon:calendar[] `October 2015 to September 2016` +
+icon:group[] {Cebraspe}
+
+I led a small team (some few developers and DevOps guys).
+We designed a Computer Based Test (CBT) solution (programmed in {NodeJS} to run on {Docker} containers).

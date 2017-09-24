@@ -1,0 +1,38 @@
+[[technical-skills]]
+= icon:plug[] Technical Skills
+
+Acquiring::
+* Languages
+** {Kotlin}, {Solidity}, {Go}
+Active::
+* Virtualization/ Containers
+** VMware, {VirtualBox}, {KVM}, {Vagrant}, {Docker}
+* Languages and Specifications
+** {Java} 8, {JavaEE} (BV, JPA, EJB, CDI, JMS, WebSocket, ...), {Groovy}, {AsciiDoc}, {Bash}, {Python}, {JavaScript}, HTML5, XML, CSS
+* Software Engineering
+** DevOps, Continuous Integration, Continuous Delivery, Unit Testing, Integration Testing
+* Application Servers
+** {JBossEAP} 6+, {WildFly} 8+, {ApacheTomcat}, {ApacheHTTP}, {Nginx}
+* Cloud
+** Microsft Azure, {OpenShift}
+* Frameworks and Libraries
+** {JUnit}, {Arquillian}, {Selenium}, {AngularJS}, Hibernate
+* Tools
+** {Vim}, {Tmux}, {Git}, {Gradle}, {NodeJS}, {Eclipse}, {IntelliJ}, JIRA, Asciidoctor, Dynatrace (APM), {Jenkins}, Sonar, {Nexus}
+* OS
+** {macOS}, {Fedora}, {RHEL}, {CentOS}
+Trying to make not so active (using only if really necessary)::
+* Languages
+** {Markdown}
+* Application Servers
+** Old versions for JBoss (4 or 5) and Tomcat
+* Frameworks and Libraries
+** {Struts}, {Spring} Framework
+* Tools
+** {Ant}, {Maven}, Subversion, {NetBeans}
+* OS
+** Windows, {Debian}, {Ubuntu}
+Rusty (need time to reactivate)::
+* Languages
+** C/{cpp} Programming
+** {Pascal} Programming

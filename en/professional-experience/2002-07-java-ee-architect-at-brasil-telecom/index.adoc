@@ -1,0 +1,12 @@
+[[_2002-07-java-ee-architect-at-brasil-telecom]]
+= Java EE Architect at Brasil Telecom
+
+icon:calendar[] `July 2002 to October 2004` +
+icon:group[] {BrasilTelecom}
+
+I did software architecture and development in Java, C, and C++ for many telecommunications applications. Some details:
+
+* I worked in the area of architecture, leading to the adoption of the software development methodology of Brasil Telecom and participating in product evaluations. I was part of the group that defines the use of open source software by the company.
+* I worked as a project leader in the development of ACW. This system allows the simultaneous access of several users to the Brasil Telecom telephone exchanges, providing a unique and secure web interface. It is a system developed in the J2EE standard, to run on the Oracle9iAS application server (in production environment) and in JBoss (development environment). ACW is a system rich in the use of J2EE standards and manufactured with the use of several Java Open Source tools, among them: Apache Ant, XDoclet, Middlegen, Jakarta Struts and JBoss.
+* I developed the scheduling module for the MASC software (Alarms, Services and Commands) using the technologies / tools described above.
+* I developed the synchronizer module for the MASC software.

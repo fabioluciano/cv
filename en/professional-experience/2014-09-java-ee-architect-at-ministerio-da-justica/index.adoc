@@ -1,0 +1,44 @@
+[[_2014-09-java-ee-architect-at-ministerio-da-justica]]
+= Java EE Architect at Ministério da Justiça
+
+icon:calendar[] `September 2014 to March 2015` +
+icon:group[] {MJ}
+
+I was hired by {UNDP} as a {JavaEE} consultant to build the architecture for https://github.com/pensandoodireito[SISLEGIS application] and guide the development team to use {JavaEE} best practices.
+
+The SISLEGIS is an {uri-oss}[open-source software] that aims to meet the needs of the {uri-mj-sal}[Secretariat of Legislative Affairs] of the {uri-mj}[Ministry of Justice].
+
+I was also responsible for acting on various issues, from the development of the application until its publication in the production environment.
+
+Some available SISLEGIS components in its GitHub account:
+
+. Backend ({JavaEE}): https://github.com/pensandoodireito/sislegis-app
+. Frontend ({AngularJS}): https://github.com/pensandoodireito/sislegis-app-frontend
+. Environments for execution:
+.. https://github.com/pensandoodireito/sislegis-ambiente-centos ({CentOS})
+.. https://github.com/pensandoodireito/sislegis-ambiente-fedora ({Fedora})
+.. https://github.com/pensandoodireito/sislegis-ambiente-ubuntu ({Ubuntu})
+
+The SISLEGIS application has, also, a http://pensandoodireito.github.io/sislegis-site/[website] that documents its characteristics.
+However, it was not updated after I left the project, and because of that, the best documentation is actually your code.
+
+icon:briefcase[] Things that I was using on this project:
+
+[cols="5*",options="header"]
+|===
+
+| Technologies/ Frameworks
+| Tools
+| Middleware
+| Databases
+| OS
+
+| {JavaEE} 6, {XStream}, {AngularJS}
+| {Vim}, {Bash}, {Ant}, {Maven}, {Nexus}, {VirtualBox}, {Vagrant}, {Docker}, {OpenShift}, {Eclipse}, {JBossTools}
+| {Wildfly} 8, {Keycloak} 1.2
+| {PostgreSQL}
+| {macOS}, {CentOS}, {Fedora}, {Ubuntu}
+
+|===
+
+icon:github[] Some pieces of my works, available on {my-GitHub-account}: <<sislegis-app>>, <<sislegis-app-frontend>>, <<sislegis-ambiente>>, <<sislegis-ambiente-ubuntu>>, <<sislegis-ambiente-fedora>>, <<sislegis-ambiente-centos>>.

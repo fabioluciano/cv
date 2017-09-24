@@ -1,0 +1,39 @@
+[[github-repositories]]
+= icon:github[] GitHub repositories
+:barra: /
+
+* [[java-fundamentals-examples]] {java-fundamentals-examples}:
+Java 8 samples.
+Very basic and didatic.
+Written in Brazilian Portuguese for my Brazilian customers.
+* [[jboss-scripts]] {jboss-scripts}:
+A small bunch of Bash scripts intended to facilitate tasks with different versions of JBoss (including Wildfly, EAP, and older) installed through zips.
+* [[jboss-domain-mode-scripts]] {jboss-domain-mode-scripts}:
+A framework (written in Bash) to install JBoss EAP (domain mode) on RHEL.
+* [[poc-vraptor-jboss-cluster]] {poc-vraptor-jboss-cluster}:
+A simple {VRaptor} application ajusted to run on JBoss EAP 6.4.
+* [[struts2-crud-example]] {struts2-crud-example}:
+A sample Struts2 CRUD application migrated to run on a JBoss EAP 7.
+Data persistence (on Oracle) is managed by Hibernate.
+* [[docker-rhel-nexus]] {docker-rhel-nexus}:
+OpenShift Dockerfiles, templates and scripts to run Nexus Repository Manager.
+* [[docker-oracle-xe]] {docker-oracle-xe}:
+Dockerfile of Oracle Database Express Edition 11g Release 2.
+* [[sislegis-site]] {sislegis-site}:
+SISLEGIS documentation website, wrote with {AsciiDoc} and {Awestruct}.
+* [[sislegis-app]] {sislegis-app}:
+SISLEGIS backend source code ({JavaEE}).
+* [[sislegis-app-frontend]] {sislegis-app-frontend}:
+SISLEGIS frontend source code ({JavaScript}/ {AngularJS})
+* [[sislegis-ambiente]] {sislegis-ambiente}:
+Scripts ({Bash}/ {JBossCLI}) used to create environments that executes SISLEGIS application.
+* [[sislegis-ambiente-ubuntu]] {sislegis-ambiente-ubuntu}:
+Environment to run SISLEGIS on {Ubuntu}.
+* [[sislegis-ambiente-fedora]] {sislegis-ambiente-fedora}:
+Environment to run SISLEGIS on {Fedora}.
+* [[sislegis-ambiente-centos]] {sislegis-ambiente-centos}:
+Environment to run SISLEGIS on {CentOS}.
+* [[gerador-jboss-bpmsuite-keycloak]] {gerador-jboss-bpmsuite-keycloak}:
+A project that integrates {JBossBPMSuite} and {Keycloak}.
+* [[wildfly-native-management-api-sample]] {wildfly-native-management-api-sample}:
+A PoC that shows how to use {Wildfly} 8.2 managament interface programaticaly.

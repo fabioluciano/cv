@@ -1,0 +1,17 @@
+[[_2014-09-jboss-instructor-at-redhat]]
+= JBoss Instructor at Red Hat
+
+icon:calendar[] `September 2014 to Now (On going)` +
+icon:group[] Through {my-company}, I act as a JBoss Instructor at {RedHat}.
+
+Currently, I'm `Red Hat Certified Instructor` ({RHCI}).
+I'm teaching {uri-redhat-courses}[official Red Hat courses].
+My teaching focus is in {uri-jboss-eap-courses}[Red Hat JBoss Enterprise Application Platform (EAP)].
+
+I already acted as an instructor in following courses:
+
+* July 2016: Instructor for `Red Hat JBoss Application Administration I` ({JB248}).
+* December 2014: Instructor for {JB248}.
+* December 2014: Instructor for `Red Hat JBoss Enterprise Application Development I` ({JB225}).
+
+You can see my complete list of delivered training on the topic "<<delivered-courses>>".

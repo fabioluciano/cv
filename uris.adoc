@@ -1,0 +1,278 @@
+// Paulo Jerônimo/Site
+:uri-paulojeronimo: http://paulojeronimo.com
+// Paulo Jerônimo/Location
+:uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
+// Paulo Jerônimo/Social
+:uri-paulojeronimo-twitter: https://twitter.com/paulojeronimo
+:uri-paulojeronimo-github: https://github.com/paulojeronimo
+:uri-paulojeronimo-linkedin: https://www.linkedin.com/in/paulojeronimo/
+// Paulo Jerônimo/Personal Presentation
+:uri-github-account: https://github.com/paulojeronimo
+:uri-slides-code: {uri-paulojeronimo-github}/whoami
+// Paulo Jerônimo/GitHub Repositories
+:uri-gh-pj-java-fundamental-examples: https://github.com/paulojeronimo/java-fundamentals-examples
+:uri-gh-pj-jboss-domain-mode-scripts: https://github.com/paulojeronimo/jboss-domain-mode-scripts
+:uri-gh-pj-jboss-scripts: https://github.com/paulojeronimo/jboss-scripts
+:uri-gh-pj-poc-vraptor-jboss-cluster: https://github.com/paulojeronimo/poc-vraptor-jboss-cluster
+:uri-gh-pj-struts2-crud-example: https://github.com/paulojeronimo/struts2-crud-example
+:uri-gh-pj-docker-rhel-nexus: https://github.com/paulojeronimo/docker-rhel-nexus
+:uri-gh-pj-docker-oracle-xe: https://github.com/paulojeronimo/docker-oracle-xe
+:uri-gh-pj-sislegis-site: https://github.com/paulojeronimo/sislegis-site
+:uri-gh-pj-sislegis-app: https://github.com/paulojeronimo/sislegis-app
+:uri-gh-pj-sislegis-app-frontend: https://github.com/paulojeronimo/sislegis-app-frontend
+:uri-gh-pj-sislegis-ambiente: https://github.com/paulojeronimo/sislegis-ambiente
+:uri-gh-pj-sislegis-ambiente-centos: https://github.com/paulojeronimo/sislegis-ambiente-centos
+:uri-gh-pj-sislegis-ambiente-fedora: https://github.com/paulojeronimo/sislegis-ambiente-fedora
+:uri-gh-pj-sislegis-ambiente-ubuntu: https://github.com/paulojeronimo/sislegis-ambiente-ubuntu
+:uri-gh-pj-javaee-tutorial-testes: https://github.com/paulojeronimo/javaee-tutorial-testes
+:uri-gh-pj-tutorial-keycloak: https://github.com/paulojeronimo/tutorial-keycloak
+:uri-gh-pj-tutorial-git-github: https://github.com/paulojeronimo/tutorial-git-github
+:uri-gh-pj-tutorial-metalsmith: https://github.com/paulojeronimo/tutorial-metalsmith
+:uri-gh-pj-praticando-git-livro: https://github.com/paulojeronimo/praticando-git-livro
+:uri-gh-pj-gerador-jboss-bpmsuite-keycloak: https://github.com/paulojeronimo/gerador-jboss-bpmsuite-keycloak
+:uri-gh-pj-wildfly-native-management-api-sample: https://github.com/paulojeronimo/wildfly-native-management-api-sample
+:uri-cluster-jboss-eap-6-test: https://github.com/paulojeronimo/cluster-jboss-eap-6-test
+// Paulo Jerônimo/Online docs
+:uri-asciidoc-e-asciidoctor: https://paulojeronimo.github.io/asciidoc-e-asciidoctor
+:uri-blockchain-docs-1: https://goo.gl/zYVaLz
+:uri-jboss-domain-mode-scripts-docs-pt-br: https://paulojeronimo.github.io/jboss-domain-mode-scripts/docs/pt-br/
+// Paulo Jerônimo/Youtube videos
+:uri-blockchain-videos: https://goo.gl/To4bPb
+// Paulo Jerônimo/Photos/Family
+:uri-wife: https://www.instagram.com/p/BC3ygwGNf3y/
+:uri-sons: https://www.instagram.com/p/BCKkOnttfzf/
+:uri-daughter: https://www.instagram.com/p/5U5Dz7Nfy6/
+:uri-daughter-2: https://www.instagram.com/p/BB3eqgnNf5X/
+:uri-son: https://www.instagram.com/p/BKd2Fj0B4cF/
+:uri-son-2: https://www.instagram.com/p/BCN93K2Nf5r/
+:uri-son-3: https://www.instagram.com/p/7ixYXGtfwb/
+// Paulo Jerônimo/Photos/Teaching
+:uri-java-8-fundamentals-class-1: https://www.instagram.com/p/BZCXcB1FCiN/
+:uri-teaching-tecnisys-jb248: https://www.instagram.com/p/BH1-a4aBnxI/
+:uri-teaching-redhat-jb336: https://www.instagram.com/p/ZYyx10Nfxa/
+// Paulo Jerônimo/Photos/Triathlon
+:uri-triathlon-1: https://www.instagram.com/p/25xX_vNfwO/
+:uri-ironman-1-1: https://www.instagram.com/p/afw6CnNf8L/
+:uri-ironman-1-2: https://www.instagram.com/p/aORATRtf04/
+:uri-ironman-1-3: https://www.instagram.com/p/Z62S7ZNf25/
+:uri-ironman-3-1: https://www.instagram.com/p/BNDnUOchJMs/
+:uri-ironman-4-1: https://www.instagram.com/p/BUraGmJl_la/
+:uri-2016-medals: https://www.instagram.com/p/BNFq82rBKTZ/
+// Paulo Jerônimo/Photos/Training
+:uri-week-training: https://www.instagram.com/p/BA7lOUfNf44/
+// Paulo Jerônimo/Photos/Traveling
+:uri-traveling-toronto: https://www.instagram.com/p/BWsCha4lPTA/
+:uri-traveling-cordisburgo: https://www.instagram.com/p/BYvvzS9FQTy/
+:uri-traveling-bracebridge: https://www.instagram.com/p/BP0VTzoBc3Z/
+:uri-rio-marathon: https://www.instagram.com/p/X7HfALtf9V/
+// Paulo Jerônimo/Photos/Colleagues
+:uri-redhat-latam-instructors: https://www.instagram.com/p/BMrnq8phxDf/
+// Paulo Jerônimo/Colleagues
+:uri-wally: https://www.linkedin.com/in/wallace-araujo-77315024/
+:uri-guilhermehott: https://www.linkedin.com/in/guilhermehott/
+:uri-fbscarel: https://www.linkedin.com/in/fbscarel/
+:uri-marceloancelmo: https://www.linkedin.com/in/marceloancelmo/
+:uri-brunoborges: https://www.linkedin.com/in/brunocborges/
+:uri-helderdarocha: http://www.helderdarocha.com.br/
+
+// Operational Systems
+:uri-macos: https://www.apple.com/lae/macos/high-sierra/
+:uri-rhel: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+:uri-centos: https://www.centos.org/
+:uri-fedora: https://getfedora.org/
+:uri-debian: http://www.debian.org/
+:uri-ubuntu: https://www.ubuntu.com/
+:uri-oracle-linux: https://www.oracle.com/linux/index.html
+
+// Programming Languages
+:uri-bash: https://www.gnu.org/software/bash/
+:uri-java-se: http://www.oracle.com/technetwork/java/javase/overview/index.html
+:uri-java: {uri-java-se}
+:uri-go: https://golang.org/
+:uri-kotlin: https://kotlinlang.org/
+:uri-javascript: https://en.wikipedia.org/wiki/JavaScript
+:uri-nodejs: https://nodejs.org
+:uri-kotlin: https://kotlinlang.org/
+:uri-markdown: https://guides.github.com/features/mastering-markdown/
+:uri-asciidoc: http://asciidoctor.org/docs/what-is-asciidoc/
+:uri-php: http://php.net/
+:uri-python: https://www.python.org/
+:uri-cobol: https://en.wikipedia.org/wiki/COBOL
+:uri-pascal: https://en.wikipedia.org/wiki/Pascal_(programming_language)
+:uri-turbo-pascal-55: https://edn.embarcadero.com/article/20803
+:uri-solidity: https://solidity.readthedocs.io/en/develop/
+:uri-groovy: http://groovy-lang.org/
+
+// Java Frameworks
+:uri-java-ee: http://www.oracle.com/technetwork/java/javaee/overview/index.html
+:uri-spring: https://spring.io/
+:uri-struts: https://struts.apache.org/
+:uri-vraptor: http://www.vraptor.org/
+:uri-xstream: http://x-stream.github.io/
+:uri-junit: http://junit.org
+:uri-arquillian: http://arquillian.org
+:uri-selenium: http://www.seleniumhq.org/
+:uri-forge: https://forge.jboss.org/
+
+// JavaScript Frameworks
+:uri-angularjs: https://angularjs.org/
+
+// Tools/Version Control
+:uri-git: https://git-scm.org
+// Tools/Editors
+:uri-vim: https://vim.sourceforge.io/
+// Tools/Writing
+:uri-asciidoctor: http://asciidoctor.org
+:uri-dzslides: http://paulrouget.com/dzslides/
+// Tools/Virtualization
+:uri-virtualbox: https://www.virtualbox.org/
+:uri-kvm: https://www.linux-kvm.org
+:uri-vagrant: https://www.vagrantup.com/
+:uri-docker: https://www.docker.com/
+// Tools/Java/Build
+:uri-ant: https://ant.apache.org
+// Tools/Java/Project Management
+:uri-maven: https://maven.apache.org/
+:uri-gradle: https://gradle.org/
+// Tools/Java/IDE
+:uri-netbeans: https://netbeans.org
+:uri-eclipse: http://www.eclipse.org/
+:uri-jboss-devstudio: https://developers.redhat.com/products/devstudio/overview/
+:uri-intellij: https://www.jetbrains.com/idea/
+// Tools/Java/IDE/plugins
+:uri-jboss-tools: https://tools.jboss.org/
+// Tools/Continuous Integration
+:uri-jenkins: https://jenkins.io/
+// Tools/Repository Management
+:uri-nexus: http://www.sonatype.org/nexus/
+// Tools/Static site generators
+:uri-awestruct: http://awestruct.org/
+// Tools/Shell
+:uri-tmux: https://github.com/tmux/tmux/wiki
+
+// Middleware/Red Hat
+:uri-wildfly: http://wildfly.org
+:uri-jboss-eap: https://developers.redhat.com/products/eap/overview/
+:uri-jboss-cli: https://docs.jboss.org/author/display/WFLY/Command+Line+Interface
+:uri-keycloak: http://www.keycloak.org/
+:uri-rhsso: https://access.redhat.com/products/red-hat-single-sign-on
+:uri-redhat-jboss-eap: https://developers.redhat.com/products/eap/overview/
+:uri-redhat-single-sign-on: https://access.redhat.com/products/red-hat-single-sign-on
+:uri-jboss-esb: http://jbossesb.jboss.org/
+:uri-jboss-fuse: https://www.redhat.com/en/technologies/jboss-middleware/fuse
+:uri-jboss-data-virtualization: https://developers.redhat.com/products/datavirt/overview/
+:uri-jboss-amq: https://developers.redhat.com/products/amq/overview/
+:uri-mod_cluster: http://mod-cluster.jboss.org/
+:uri-jboss-bpm-suite: https://developers.redhat.com/products/bpmsuite/overview/
+:uri-jboss-brms: https://developers.redhat.com/products/brms/overview/
+// Middleware/Oracle
+:uri-oracle-weblogic: https://www.oracle.com/middleware/weblogic/index.html
+:uri-weblogic-2: http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html
+:uri-glassfish: https://javaee.github.io/glassfish/
+// Middleware/IBM
+:uri-ibm-websphere: http://www-03.ibm.com/software/products/en/appserv-was
+:uri-ibm-business-monitor: https://www-01.ibm.com/software/integration/wbimonitor/features/bam-supportpacs.html
+:uri-ibm-worklight: https://www.ibm.com/support/knowledgecenter/en/SSZH4A_6.1.0/com.ibm.worklight.getstart.doc/topics/c_overview.html
+// Middleware/Apache
+:uri-apache-tomcat: https://tomcat.apache.org/
+:uri-apache-http: https://httpd.apache.org/
+:uri-mod_proxy: https://httpd.apache.org/docs/current/mod/mod_proxy.html
+:uri-mod_proxy_balancer: https://httpd.apache.org/docs/2.4/mod/mod_proxy_balancer.html
+// Middleware/Other
+:uri-nginx: https://nginx.org/
+:uri-haproxy: http://www.haproxy.org/
+:uri-tomcat: http://tomcat.apache.org/
+
+// Cloud/Red Hat
+:uri-redhat-openstack: https://www.redhat.com/en/technologies/linux-platforms/openstack-platform
+:uri-redhat-openshift: https://www.openshift.com/
+
+// Databases/Oracle
+:uri-oracle-database: https://www.oracle.com/database/index.html
+:uri-oracle-xe: http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html
+// Databases/IBM
+:uri-ibm-db2: https://www.ibm.com/analytics/us/en/db2/
+// Databases/Microsoft
+:uri-ms-sql-server: https://www.microsoft.com/en-us/sql-server/sql-server-2016
+// Databases/Other
+:uri-postgresql: https://www.postgresql.org/
+
+// Courses/Oracle
+:uri-oracle-java-training: https://education.oracle.com/java_training/
+:uri-java-se-8-fundamentals: https://goo.gl/ZnUogk
+:uri-java-se-8-programming: https://goo.gl/ZnUogk
+// Courses/Red Hat
+:uri-redhat-courses: https://www.redhat.com/en/services/training/courses-by-curriculum
+:uri-jboss-eap-courses: https://www.redhat.com/en/services/training/courses-by-curriculum#Red-Hat-JBoss-Enterprise-Application-Platform-EAP
+:uri-jb248: https://goo.gl/cvNXC9
+:uri-jb225: https://goo.gl/d8PX9k
+
+// Companies
+:uri-oracle: https://oracle.com
+:uri-redhat: https://redhat.com
+:uri-ibm: https://www.ibm.com
+:uri-ladoservidor: http://ladoservidor.com
+:uri-cebraspe: http://www.cespe.unb.br/cebraspe/
+:uri-tecnisys: https://www.tecnisys.com.br
+:uri-mj: http://www.justica.gov.br/
+:uri-mj-sal: http://www.justica.gov.br/Acesso/institucional/sumario/quemequem/secretaria-de-assuntos-legislativos
+:uri-mais2x: http://www.mais2x.com.br/
+:uri-ambima: http://www.anbima.com.br
+:uri-summa: https://www.linkedin.com/company/166191/
+:uri-politec: https://br.linkedin.com/company/politec
+:uri-fujioka: https://www.fujioka.com.br
+:uri-embrace: http://www.embraceeng.com.br
+:uri-b3: http://www.b3.com.br
+:uri-cetip: https://www.cetip.com.br/
+:uri-ancine: https://www.ancine.gov.br/
+:uri-previ: http://www.previ.com.br
+:uri-undp: http://www.undp.org/
+:uri-cef: http://www.caixa.gov.br
+:uri-trf1: http://portal.trf1.jus.br/
+:uri-arcelor-mittal: http://vega.arcelormittal.com/
+:uri-bradesco-seguros: http://www.bradescoseguros.com.br
+:uri-celepar: http://www.celepar.pr.gov.br/
+:uri-stn: http://www.tesouro.fazenda.gov.br/sobre-o-tesouro-nacional
+
+// GitHub Repositories
+:uri-asciidoc-dzslides-backend: https://github.com/mojavelinux/asciidoc-dzslides-backend
+:uri-libqrencode: https://github.com/fukuchi/libqrencode
+
+// Definitions
+:uri-uat: https://en.wikipedia.org/wiki/Acceptance_testing
+:uri-rsync: https://pt.wikipedia.org/wiki/Rsync
+:uri-weeks-2017: https://www.epochconverter.com/weeks/2017
+:uri-poc: https://en.wikipedia.org/wiki/Proof_of_concept
+:uri-rhci: http://acronyms.thefreedictionary.com/Red+Hat+Certified+Instructor
+:uri-rhsso-user-storage: https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.1/html/server_developer_guide/user-storage-spi
+:uri-oss: https://en.wikipedia.org/wiki/Open-source_software
+
+// Places
+:uri-goiania: https://goo.gl/maps/gUu19uJRXaJ2
+:uri-brasilia: https://goo.gl/maps/6Due6i1tEyN2
+:uri-fortaleza: https://goo.gl/maps/Y6m9Ctt9L3R2
+:uri-florianopolis: https://goo.gl/maps/xhKQN46By9y
+:uri-joao-pessoa: https://goo.gl/maps/PUe1ioCZw5M2
+:uri-rio-de-janeiro: https://goo.gl/maps/5QGsqM2aCnz
+:uri-cuiaba: https://goo.gl/maps/kgUyyN6Kphy
+:uri-curitiba: https://goo.gl/maps/sSsCbDV6jcR2
+:uri-sao-paulo: https://goo.gl/maps/QtRjKbE4pvz
+:uri-sao-jose-dos-campos: https://goo.gl/maps/6CsZ2Q8dmss
+:uri-palmas: https://goo.gl/maps/RSQ9DPVs5MK2
+:uri-primavera-do-leste: https://goo.gl/maps/UEX7h72MsHB2
+:uri-previ-rio-de-janeiro: https://goo.gl/maps/nFKzd9qR8M72
+:uri-ancine-rio-de-janeiro: https://goo.gl/maps/ocV7yfSdg5y
+:uri-b3-sao-paulo: https://goo.gl/maps/PQSpGu7M5mQ2
+:uri-hepta-brasilia: https://goo.gl/maps/L6DcNr7ksGU2
+:uri-bradesco-seguros-rio-de-janeiro: https://goo.gl/maps/LMTbyZdTRkH2
+:uri-arcelor-mittal-sao-francisco: https://goo.gl/maps/Sg352sMvyaE2
+
+// Universities
+:uri-unb: http://unb.br/
+:uri-ucg: http://www.pucgoias.edu.br/
+
+// Certifications
+:uri-redhat-certification-verify: https://www.redhat.com/rhtapps/certification/verify/?certId=130-083-967
+
+// Events
+:uri-javasenior: http://a.ladoservidor.com/eventos/javasenior.html

@@ -1,0 +1,14 @@
+[[_2010-12-middleware-specialist-at-algar]]
+= Middleware Specialist at Algar 
+
+icon:calendar[] `December 2010 to April 2011` +
+icon:group[] {Algar}
+
+I worked in consulting and support services for JBoss, Oracle and Apache application servers, for {CNPq} client ({Brasilia}). Main responsabilities:
+
+* Migration of Oracle server applications to JBoss.
+* Tuning of servers in production.
+* Installation of products for monitoring.
+* Performance analysis of applications.
+* Load and stress tests.
+* Support to production, homologation and development environments.

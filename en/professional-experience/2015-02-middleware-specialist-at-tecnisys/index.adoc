@@ -1,0 +1,26 @@
+[[_2015-02-middleware-specialist-at-tecnisys]]
+= Middleware Specialist at Tecnisys
+
+icon:calendar[] `February 2015 to September 2015` +
+icon:group[] {Tecnisys}
+
+{Tecnisys} is a {RedHat}'s partner. When I was working there, also, an {IBM} partner.
+
+I worked for this employer offering consulting and training services on Red Hat's Linux, middleware and cloud products, including the following servers / solutions: {OpenStack}, {OpenShift}, {JBossEAP}, {WildFly}, {JBossESB}, {JBossFuse}, {JBossDataVirtualization}, {JBossAMQ}, {JBossDeveloperStudio}, {JBossFuse}, {JBossBPMSuite}, {JBossBRMS}.
+
+I also did some works related with IBM products: {IBMWorklight}.
+
+To their customers, I recommended, specified and developed scalable architectures using these products.
+
+I helped the sales team, acting as a pre-salesman (technical) when necessary.
+
+Some tasks completed on customers:
+
+* {Celepar} {CeleparCuritiba}:
+** I wrote a PoC to show how to use the native management interface for Wildfly via a Java program.
+This PoC has published in the <<wildfly-native-management-api-sample>> GitHub repository.
+* {STN} {STNBrasilia}:
+** I was responsible to integrate {JBossFuse} with {Keycloak}.
+This solution was published in the <<gerador-jboss-bpmsuite-keycloak>> GitHub repository.
+** I gave a course for the customer team preparing them to use the {Arquillian} and {Forge} development tools.
+To do that, I wrote the publication <<javaee-tutorial-testes,Java EE application tests with Arquillian>>.

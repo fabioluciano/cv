@@ -1,0 +1,11 @@
+[[delivered-courses]]
+= Delivered courses
+
+Working as an instructor, I delivered official courses ({Oracle}/ {RedHat}, for example) and also courses that I wrote on {my-company} (or with partners) to attend customer demands.
+
+The complete list, shown below, gives you an idea of my effort to always stay tuned with the current technologies in its epoch. This list totals almost 3,400 hours training people in technology-related subjects.
+
+[format="csv", separator=";", options="header"]
+|===
+include::delivered-courses.csv[]
+|===

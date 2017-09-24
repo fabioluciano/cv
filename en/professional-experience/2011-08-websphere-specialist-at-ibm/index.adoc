@@ -1,0 +1,12 @@
+[[_2011-08-websphere-specialist-at-ibm]]
+= Websphere Specialist at IBM
+
+icon:calendar[] `August 2011 to June 2012` +
+icon:group[] {IBM}
+
+I worked in the {IBMWebSphere} team as a consultant/expert in {uri-ibm-websphere}[WebSphere Application Server (WAS)] and {IBMBusinessMonitor} (used to do Business Activity Monitoring (BAM)).
+Main activities performed:
+
+* *{CEF}* ({CEFBrasilia} and {CEFOsasco}): Installation of {IBMBusinessMonitor} and development of the BAM project.
+* *{ArcelorMittal}* ({ArcelorMittalSaoFrancisco}): Consulting in {uri-ibm-websphere}[WAS].
+* *{BradescoSeguros}* ({BradescoSegurosRioDeJaneiro}): Consulting in {uri-ibm-websphere}[WAS].
