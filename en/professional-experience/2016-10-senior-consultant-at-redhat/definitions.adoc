@@ -1,4 +1,4 @@
 :w2016-10-d: I did a big effort to migrate a {JavaEE} monolithic application from {OracleWebLogic} to {JBossEAP} 7
 :w2016-10-c: I built a PoC that implements a {uri-rhsso-user-storage}[User Storage] for {RHSSO} 7.1
 :w2016-10-b: I developed a project called <<jboss-domain-mode-scripts>>. It is a framework (written in Bash) to install {JBossEAP} (domain mode) on {RHEL}
-:w2016-10-a: I was allocated in {B3} customer ({B3SaoPaulo}) (previously called {Cetip}). My primary work on this customer was migrate several {JavaEE} and {Spring} applications between different {JBossEAP} versions (from 5 to 6.4). Also, I created all the new environments (local development, integration, {UAT} and production) for this applications
+:w2016-10-a: I was allocated in {B3} customer ({B3SaoPaulo}) (previously called {Cetip}). My primary work on this customer was migrate several {JavaEE} and {Spring} applications between different {JBossEAP} versions (from 5 to 6.4). Also, I created all the new environments (local development, integration, {UAT} and production) for these applications

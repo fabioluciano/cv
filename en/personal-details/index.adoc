@@ -3,15 +3,18 @@
 
 .Paulo Jerônimo
 ****
-Consultant, developer, author, trainer, and speaker. Develops in programming languages and tools running under open or proprietary platforms, giving preference to produce open source software. Present in the corporate market since 1993, produces solutions using open source softwares and agile practices. Has extensive experience in architecture, development, and infrastructure to meet the non-functional software requirements in mission critical, scalable, fault-tolerant, run by clusters of application servers in public or private computing clouds.
+Consultant, developer, author, trainer, and speaker. Develops in programming languages and tools running under open or proprietary platforms, giving preference to produce open source software.
+Operating in the corporate market since 1993, produces solutions using open source softwares and agile practices.
+Has extensive experience in architecture, development, and infrastructure to meet the non-functional software requirements in mission critical, scalable, fault-tolerant, run by clusters of application servers in public or private computing clouds.
 
-Broad experience on leadership of high skilled teams and on mission critical assignments, capable of working effectively under pressure and able to operate independently, with an ability to influence and mentor the team and capable of developing compelling business solutions to meet customers strategic needs.
+Broad experience on leadership of high skilled teams and on mission critical assignments, capable of working effectively under pressure and able to operate independently.
+Also, with an ability to influence and mentor the team and capable of developing compelling business solutions to meet customers strategic needs.
 
-Vast experience on enterprise strategy definition, solution architecture, usage model definition, deployment and rollout of agile software development process and tools for architecture, design, software planning, software development, ALM and DevOps.
+Vast experience on enterprise strategy definition, solution architecture, usage model definition, deployment and rollout of agile software development process and tools for architecture, design, software planning, software development, ALM, and DevOps.
 
 Strong actuation as a consultant on middleware environments based on {JBossEAP}, {Wildfly}, {ApacheHTTP}, {ApacheTomcat}, {IBMWebSphere}, {OracleWebLogic}, and {GlassFish}. Capable to define strategy for installation, optimized sizing and configuration, administration best practices, deployment automation, topology design, and as a best practices mentor on troubleshooting, performance analysis and performance tuning.
 
-Experienced trainer, with more than 3,400 hours of <<delivered-courses,training delivered>>. Main topics taught include Software Architecture, Test Driven Development, {JavaEE} Development (including Web, Web Services, EJB, JPA, etc), and JBoss Administration.
+Experient trainer with more than 3,400 hours of <<delivered-courses,training delivered>> to many customers. Main topics taught include Software Architecture, Test Driven Development, {JavaEE} Development (including Web, Web Services, EJB, JPA, etc), and JBoss Administration.
 ****
 
 Contacts::

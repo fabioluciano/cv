@@ -208,6 +208,7 @@ endif::[]
 :Gradle: {uri-gradle}[Gradle]
 
 // Colleagues
+:WallaceAraujo: {uri-wally}[Wallace Araujo]
 :MarceloAncelmo: {uri-marceloancelmo}[Marcelo Ancelmo]
 :BrunoBorges: {uri-brunoborges}[Bruno Borges]
 :HelderDaRocha: {uri-helderdarocha}[Helder da Rocha]

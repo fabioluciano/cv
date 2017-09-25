@@ -6,21 +6,21 @@ icon:group[] {Mais2x}
 
 Acting for clients of the company, developing activities related to supporting for Linux servers ({CentOS}, {RHEL}, {Debian}) and middleware running {ApacheHTTP}, {Nginx}, {ApacheTomcat} or {JBossEAP}.
 Supporting for applications written in {Python}, {PHP}, and {Java}.
-My main assignments were:
+My main tasks were:
 
 * Installation, configuration, administration, monitoring, tuning {RHEL} servers (versions 4-6) and {JBossEAP} (versions 4-6).
 * Deployment of applications (via scripts that I created for this task).
 * Development of scripts for automation tasks (using {Bash} and {Python}).
 * Configuration of web servers, clusters (RHEL and JBossEAP) and load balancers ({HAProxy}, {Nginx}, {ApacheHTTP}, {mod_proxy}, {mod_proxy_balancer}, {mod_cluster}, etc).
 
-I did those tasks in this periods/clients:
+I did these tasks in this periods/clients:
 
 * icon:calendar[] `January 2014 to June 2014`: I was allocated on {uri-cef}[Caixa Econômica Federal (CEF)].
 CEF is the http://exame.abril.com.br/negocios/os-20-maiores-bancos-do-brasil-em-valor-de-ativos/[second largest] public bank of Brazil.
 * icon:calendar[] `June 2013 to December 2013`: I was allocated on {Trf1}.
 TRF-1 is a court of justice.
 
-icon:briefcase[] Things that I used on those works:
+icon:briefcase[] Things that I used on these works:
 
 [cols="5*",options="header"]
 |===

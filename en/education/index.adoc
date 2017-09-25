@@ -1,7 +1,7 @@
 = icon:graduation-cap[] Education
 
 [[my-academic-background]]
-== Academic Background (Universities)
+== Academic Background
 
 {UnB}::
 Specialist, Distributed Systems and Object Orientation +

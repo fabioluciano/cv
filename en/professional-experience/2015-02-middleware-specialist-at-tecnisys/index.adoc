@@ -8,7 +8,7 @@ icon:group[] {Tecnisys}
 
 I worked for this employer offering consulting and training services on Red Hat's Linux, middleware and cloud products, including the following servers / solutions: {OpenStack}, {OpenShift}, {JBossEAP}, {WildFly}, {JBossESB}, {JBossFuse}, {JBossDataVirtualization}, {JBossAMQ}, {JBossDeveloperStudio}, {JBossBPMSuite}, {JBossBRMS}.
 
-I also did some works related with IBM products: {IBMWorklight}.
+I also did some works related to IBM products: {IBMWorklight}.
 
 To their customers, I recommended, specified and developed scalable architectures using these products.
 
@@ -22,5 +22,5 @@ This PoC has published in the <<wildfly-native-management-api-sample>> GitHub re
 * {STN} {STNBrasilia}:
 ** I was responsible to integrate {JBossFuse} with {Keycloak}.
 This solution was published in the <<gerador-jboss-bpmsuite-keycloak>> GitHub repository.
-** I gave a course for the customer team preparing them to use the {Arquillian} and {Forge} development tools.
-To do that, I wrote the publication <<javaee-tutorial-testes,Java EE application tests with Arquillian>>.
+** I taught the customer team about how to use the {Arquillian} and {Forge} development tools.
+I did it, in a course, when I wrote the publication <<javaee-tutorial-testes,"Java EE application tests with Arquillian">>.
