@@ -24,9 +24,6 @@ WebSites::
 * paulojeronimo [http://paulojeronimo.com[.com] | http://paulojeronimo.info[.info] (__pt-br, [red]#deprecated#)__]
 * {uri-ladoservidor}[ladoservidor.com] __(pt-br, [red]#deprecated#)__
 Social Media::
-{uri-paulojeronimo-linkedin}[icon:linkedin[3x]]
-{uri-paulojeronimo-github}[icon:github[3x]]
-{uri-paulojeronimo-twitter}[icon:twitter[3x]]
-{uri-paulojeronimo-facebook}[icon:facebook[3x]]
-{uri-paulojeronimo-instagram}[icon:instagram[3x]]
-icon:map-marker[] Location:: {uri-paulojeronimo-location}[Rua 37 Sul, Águas Claras, Brasília/DF, Brazil]
+* icon:linkedin[] Linkedin: {uri-paulojeronimo-linkedin} | icon:github[] GitHub: {uri-paulojeronimo-github} | icon:twitter[] Twitter: {uri-paulojeronimo-twitter} | icon:facebook[] Facebook: {uri-paulojeronimo-facebook} | icon:instagram[] Instagram: {uri-paulojeronimo-instagram}
+icon:map-marker[] Location::
+* {uri-paulojeronimo-location}[{MyLocation}]

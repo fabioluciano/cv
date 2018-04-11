@@ -1,6 +1,8 @@
 #!/bin/bash
-set +x
 set -e
+
+DEBUG=${DEBUG:-false}
+$DEBUG && set -x || set +x
 
 LANGUAGE_DIR=${LANGUAGE_DIR:-en}
 BASE_DIR=`cd "$(dirname "$0")"; pwd`
@@ -12,24 +14,17 @@ source "$BASE_DIR"/$config
 
 # called automatically when you invoke this script
 check_prerequisites() {
-  which asciidoctor > /dev/null || {
-    echo "ERROR: install asciidoctor first!"
-    exit 1
-  }
+  which asciidoctor > /dev/null || { echo "ERROR: install asciidoctor first!"; exit 1; }
+  which w3m > /dev/null || { echo "ERROR: install w3m first!"; exit 1; }
+  which lynx > /dev/null || { echo "ERROR: install lynx first!"; exit 1; }
 
   if $generate_pdf
   then
     if $use_fopub
     then
-      [ -x "$fopub" ] || {
-        echo "ERROR: can't execute $fopub!"
-        exit 1
-      }
+      [ -x "$fopub" ] || { echo "ERROR: can't execute $fopub!"; exit 1; }
     else
-      which asciidoctor-pdf > /dev/null || {
-        echo "ERROR: install asciidoctor-pdf first!"
-        exit 1
-      }
+      which asciidoctor-pdf > /dev/null || { echo "ERROR: install asciidoctor-pdf first!"; exit 1; }
     fi
   fi
 }
@@ -44,17 +39,40 @@ _clean() {
 _build() {
   local result
 
+  echo "Generating HTML ..."
   asciidoctor index.adoc
   result=$?
 
+  _txt
+
   $generate_pdf || exit $result
 
+  echo "Generating PDF ..."
   if $use_fopub
   then
     asciidoctor -b docbook -d book -a data-uri! index.adoc -o $xml_name
     $fopub $xml_name
   else
     asciidoctor-pdf -o $pdf_name index.adoc
+  fi
+}
+
+# used to build the TXT version (cv.txt)
+_txt() {
+  if [ -f index.html ]
+  then
+    echo "Generating TXT ..."
+
+    # Using w3m: (https://github.com/asciidoctor/asciidoctor/issues/1636#issuecomment-167700917)
+    w3m -dump -cols 2147483647 index.html > cv.txt
+
+    # Using lynx:
+    #lynx -dump -width=1024 -nolist index.html > cv.txt
+
+    # Using html-to-text (https://www.npmjs.com/package/html-to-text)
+    #html-to-text < index.html > cv.txt
+
+    # Using html2text (https://github.com/jaytaylor/html2text)
   fi
 }
 
@@ -73,8 +91,10 @@ _publish() {
     --include='**/' \
     --include='/pt-br/*.html' \
     --include='/pt-br/*.pdf' \
+    --include='/pt-br/*.txt' \
     --include='/en/*.html' \
     --include='/en/*.pdf' \
+    --include='/en/*.txt' \
     --include='/en/*.csv' \
     --exclude='*' \
     . "$published_dir"/

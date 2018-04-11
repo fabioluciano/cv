@@ -1,14 +1,14 @@
 [[_2017-09-java-instructor-at-oracle]]
 = Java Instructor at Oracle
 
-icon:calendar[] `September 2017 to Now (On going)` +
-icon:group[] Through {my-company}, I act as a Java Instructor at {Oracle}.
+icon:calendar[] `September 2017 to January 2018` +
+icon:group[] Through {my-company}, I acted as a Java Instructor at {Oracle}.
 
-I'm teaching {uri-oracle-java-training}[official Oracle Java courses].
+I ministered {uri-oracle-java-training}[official Oracle Java courses].
 
 You can see my complete list of delivered training in the topic "<<delivered-courses>>".
 
-icon:briefcase[] Things that I'm using in my works:
+icon:briefcase[] Things that I used in my works:
 
 [cols="3*",options="header"]
 |===

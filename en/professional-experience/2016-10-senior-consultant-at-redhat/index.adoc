@@ -1,8 +1,8 @@
 [[_2016-10-senior-consultant-at-redhat]]
 = Senior Consultant at Red Hat
 
-icon:calendar[] `October 2016 to Now (On going)` +
-icon:group[] Through {my-company}, I act as a Senior Consultant at {RedHat}.
+icon:calendar[] `October 2016 to January 2018` +
+icon:group[] Through {my-company}, I acted as a Senior Consultant at {RedHat}.
 
 include::definitions.adoc[]
 

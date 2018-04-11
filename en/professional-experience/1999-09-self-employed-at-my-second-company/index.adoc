@@ -1,10 +1,10 @@
 [[_1999-09-self-employed-at-my-second-company]]
 = Self-employed at Paulo Jerônimo ME
 
-icon:calendar[] `September 1999 to Now (On going)` +
+icon:calendar[] `September 1999 to January 2018` +
 icon:group[] *Paulo Jerônimo ME*
 
-*Paulo Jerônimo Treinamentos Eireli-ME* is the current name of my own micro company.
+*Paulo Jerônimo Treinamentos Eireli-ME* was the name of my own micro company.
 It was founded in September 1999 with the name *ALP Engenharia de Software Ltda*.
 For many years my company lived only attending some specify customers, without a trademark.
 Therefore, in April 2010, I decided to give it one: *http://ladoservidor.com[Lado Servidor]*.
@@ -23,7 +23,7 @@ In April 2014, I decided to not update __Lado Servidor__ blog anymore.
 That decision was done to give more emphasis in my own name.
 Therefore, I asked my accountant to change the name to the current that I'm using.
 
-Now, through my company, I'm playing the following roles:
+Through my company, I played the following roles:
 
 * <<_2017-09-java-instructor-at-oracle>>.
 * <<_2016-10-senior-consultant-at-redhat>>.

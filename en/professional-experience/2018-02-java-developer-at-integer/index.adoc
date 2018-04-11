@@ -1,0 +1,8 @@
+[[_2018-02-java-developer-at-integer]]
+= Software Developer at Integer
+
+icon:calendar[] `February 2018 to Now (On going)` +
+icon:group[] Working as a Software Developer at {Integer}.
+
+icon:calendar[] `April 2018 to Now (On going)`::
+Through this company and its partner ({NovaBase}), I am working as a software developer for {ThalesGroup} developing solutions at https://www.thalesgroup.com/en/global/activities/ground-transportation[Thales Ground Transportation System].

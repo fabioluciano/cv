@@ -38,7 +38,7 @@ Here is the list:
 2010::
   Semana Acadêmica da Faculdade Projeção, {Brasilia}, October 17:::
     * *Clusters* de servidores de aplicações *Java*, demonstrando casos práticos utilizando *JBoss* e/ou *GlassFish*.
-  2o WorkShop de Tecnologia de Jataí, Jataí, October 29:::
+  2o WorkShop de Tecnologia de Jataí, {Jatai}, October 29:::
     * *Java EE* no *JBoss AS 6*
   Semana Acadêmica da Faculdade Jesus Maria José, {Brasilia}, November 05:::
     * *Clusters* and high availability in *JBoss AS*

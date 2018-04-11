@@ -1,7 +1,10 @@
 // Paulo Jerônimo/Site
 :uri-paulojeronimo: http://paulojeronimo.com
 // Paulo Jerônimo/Location
-:uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
+// Brasilia
+//:uri-paulojeronimo-location: https://goo.gl/maps/fTtidz4namk
+// Lisbon
+:uri-paulojeronimo-location: https://goo.gl/maps/mk9ac7NV9pH2
 // Paulo Jerônimo/Social
 :uri-paulojeronimo-twitter: https://twitter.com/paulojeronimo
 :uri-paulojeronimo-github: https://github.com/paulojeronimo
@@ -268,6 +271,7 @@
 :uri-sao-jose-dos-campos: https://goo.gl/maps/6CsZ2Q8dmss
 :uri-palmas: https://goo.gl/maps/RSQ9DPVs5MK2
 :uri-primavera-do-leste: https://goo.gl/maps/UEX7h72MsHB2
+:uri-jatai: https://goo.gl/maps/pJHv6dHWKHu
 :uri-previ-rio-de-janeiro: https://goo.gl/maps/nFKzd9qR8M72
 :uri-ancine-rio-de-janeiro: https://goo.gl/maps/ocV7yfSdg5y
 :uri-b3-sao-paulo: https://goo.gl/maps/PQSpGu7M5mQ2

@@ -1,8 +1,9 @@
 // My personal data
 :MyID: paulojeronimo
-:MyPhone: +55 61 995046178
+:MyPhone: +351 916 575 781
 :MyEmail: pj@{MyID}.com
 :MyTwitter: {uri-paulojeronimo-twitter}[@{MyID}]
+:MyLocation: Portugal/Lisbon
 
 // Courses
 :JavaSE8Fundamentals: {uri-java-se-8-fundamentals}[Java SE 8 Fundamentals]
@@ -84,6 +85,9 @@
 :Foton: http://www.foton.la/[Foton]
 :Algar: http://algartech.com/en/[Algar Tecnologia]
 :CNPq: http://cnpq.br/[CNPq]
+:Integer: http://integer.pt/[Integer]
+:Novabase: http://novabase.pt/[Novabase]
+:ThalesGroup: https://www.thalesgroup.com/[Thales Group]
 
 // Groups
 :DFJUG: {uri-dfjug}[DFJUG]
@@ -234,6 +238,7 @@ endif::[]
 :Palmas: icon:map-marker[] {uri-palmas}[Palmas]
 :SaoJoseDosCampos: icon:map-marker[] {uri-sao-jose-dos-campos}[São José dos Campos]
 :PrimaveraDoLeste: icon:map-marker[] {uri-primavera-do-leste}[Primavera do Leste]
+:Jatai: icon:map-marker[] {uri-jatai}[Jataí]
 :AncineRioDeJaneiro: icon:map-marker[] {uri-ancine-rio-de-janeiro}[Rio de Janeiro]
 :PreviRioDeJaneiro: icon:map-marker[] {uri-previ-rio-de-janeiro}[Rio de Janeiro]
 :B3SaoPaulo: icon:map-marker[] {uri-b3-sao-paulo}[São Paulo]
